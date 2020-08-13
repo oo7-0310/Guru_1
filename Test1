@@ -1,0 +1,5 @@
+#git init
+#git add
+#git commit - m "TEST1"
+#git remote add origin https://github.com/oo7-0310/Guru_1
+#git push origin master
